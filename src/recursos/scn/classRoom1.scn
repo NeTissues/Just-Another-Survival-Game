@@ -1,0 +1,73 @@
+50
+src/recursos/tiles/graminha.png
+src/recursos/tiles/janela_escura.png
+src/recursos/tiles/sand_brick_path.png
+src/recursos/tiles/irondoor_u.png
+src/recursos/tiles/irondoor_b.png
+src/recursos/tiles/irondoor_b2.png
+src/recursos/tiles/clock.png
+src/recursos/tiles/esquerdacima.png
+src/recursos/tiles/esquerdab.png
+src/recursos/tiles/direitac.png
+src/recursos/tiles/direitab.png
+src/recursos/tiles/parede_avisoA.png
+src/recursos/tiles/muro_baixo.png
+src/recursos/tiles/muro_alto.png
+src/recursos/tiles/parede.png
+src/recursos/tiles/parede.png
+src/recursos/tiles/porta1.png
+src/recursos/tiles/porta3.png
+src/recursos/tiles/porta2.png
+src/recursos/tiles/porta4.png
+src/recursos/tiles/Tile1_C1_R1.jpg
+src/recursos/tiles/Tile2_C1_R2.jpg
+src/recursos/tiles/Tile3_C1_R3.jpg
+src/recursos/tiles/Tile4_C1_R4.jpg
+src/recursos/tiles/Tile5_C1_R5.jpg
+src/recursos/tiles/Tile6_C2_R1.jpg
+src/recursos/tiles/Tile7_C2_R2.jpg
+src/recursos/tiles/Tile8_C2_R3.jpg
+src/recursos/tiles/Tile9_C2_R4.jpg
+src/recursos/tiles/Tile10_C2_R5.jpg
+src/recursos/tiles/asfalto.png
+src/recursos/tiles/calcada.png
+src/recursos/tiles/terra.png
+src/recursos/tiles/calcada_vertical.png
+src/recursos/tiles/janela_branca.png
+src/recursos/tiles/wall_bottomLeft1.png
+src/recursos/tiles/wall_bottomMid1.png
+src/recursos/tiles/wall_bottomRight1.png
+src/recursos/tiles/wall_upperLeft1.png
+src/recursos/tiles/wall_topMid1.png
+src/recursos/tiles/wall_topLeft1.png
+src/recursos/tiles/piso_madeira1.png
+src/recursos/tiles/piso_madeira2.png
+src/recursos/tiles/mesa_LesqUpper2.png
+src/recursos/tiles/mesa_sala.png
+src/recursos/tiles/porta_sala_1Upper.png
+src/recursos/tiles/sala_porta2Bottom.png
+48
+49
+50
+39 40 40 40 40 40 40 40 40 40 40 47 40 40 40 40 40 40 40 40 40 40 40 40 40 41
+36 37 37 37 37 37 37 37 37 37 37 48 37 37 37 37 37 37 37 37 37 37 37 37 37 38
+42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42
+42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42
+42 42 42 42 42 45 42 45 42 45 42 45 42 45 42 45 42 45 42 42 42 42 42 42 42 42
+42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42
+42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42
+42 42 42 42 42 45 42 45 42 45 42 45 42 45 42 45 42 45 42 42 42 42 42 42 42 42
+42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42
+42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42
+42 42 42 42 42 45 42 45 42 45 42 45 42 45 42 45 42 45 42 42 42 42 42 42 42 42
+42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42
+42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42
+42 42 42 42 42 45 42 45 42 45 42 45 42 45 42 45 42 45 42 42 42 42 42 42 42 42
+42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42
+42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42
+42 42 42 42 42 45 42 45 42 45 42 45 42 45 42 45 42 45 42 42 42 42 42 42 42 42
+42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42
+42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42
+42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42
+%
+src/recursos/cenarios/piso_madeira1.png
